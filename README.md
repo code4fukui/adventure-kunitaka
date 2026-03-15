@@ -1,3 +1,20 @@
 # adventure-kunitaka
-## チームの資料置き場
-https://github.com/code4fukui/adventure-kunitaka-team.git
+A repository for storage of team materials.
+
+## Demo
+Not available.
+
+## Features
+- Serves as a shared storage location for team project resources.
+
+## Requirements
+No specific requirements.
+
+## Usage
+This repository is intended for internal team use only.
+
+## Data / API
+No external data or APIs utilized.
+
+## License
+Not specified.
