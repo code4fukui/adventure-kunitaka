@@ -11,4 +11,4 @@ A repository for storage of team materials.
 This repository is intended for internal team use only.
 
 ## License
-Not specified.
+MIT License — see [LICENSE](LICENSE).

@@ -1,11 +1,13 @@
 # adventure-kunitaka
-このリポジトリはチームの資料を共有するためのものです。
 
-## デモ
-[adventure-kunitaka-team](https://github.com/code4fukui/adventure-kunitaka-team.git) リポジトリで、チームの共有資料を確認できます。
+このリポジトリは、チームの共有資料を保管するためのものです。
 
 ## 使い方
-`git clone https://github.com/code4fukui/adventure-kunitaka-team.git` でリポジトリをクローンし、共有資料を確認してください。
+リポジトリを clone して、共有資料を確認することができます。
+
+```
+git clone https://github.com/code4fukui/adventure-kunitaka-team.git
+```
 
 ## ライセンス
-特に記載はありません。
+特に指定のライセンスはありません。
