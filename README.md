@@ -1,3 +1,14 @@
 # adventure-kunitaka
-## チームの資料置き場
-https://github.com/code4fukui/adventure-kunitaka-team.git
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+A repository for storage of team materials.
+
+## Features
+- Serves as a shared storage location for team project resources.
+
+## Usage
+This repository is intended for internal team use only.
+
+## License
+MIT License — see [LICENSE](LICENSE).
